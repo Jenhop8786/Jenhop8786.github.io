@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "The struggles with HTML and CSS "
+title:      "The struggles of HTML and CSS "
 date:       2017-12-03 16:38:52 -0500
 permalink:  the_struggles_with_html_and_css
 ---

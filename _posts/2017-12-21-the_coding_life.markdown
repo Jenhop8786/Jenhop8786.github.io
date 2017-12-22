@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "The coding life "
+title:      The coding life 
 date:       2017-12-22 01:22:41 +0000
 permalink:  the_coding_life
 ---

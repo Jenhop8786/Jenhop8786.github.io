@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Stage left, Enter Sinatra"
+title:      Stage left, Enter Sinatra
 date:       2018-02-11 17:18:06 +0000
 permalink:  stage_left_enter_sinatra
 ---

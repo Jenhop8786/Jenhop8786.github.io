@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "What have I learned so far?"
+title:      What have I learned so far?
 date:       2018-02-17 04:06:23 +0000
 permalink:  what_have_i_learned_so_far
 ---

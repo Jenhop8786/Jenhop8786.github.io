@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Hitting one block after another "
+title:      Hitting one block after another
 date:       2018-03-28 15:49:49 +0000
 permalink:  hitting_one_block_after_another
 ---

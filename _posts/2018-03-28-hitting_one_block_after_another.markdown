@@ -11,6 +11,7 @@ And I am not talking about the method "Do."
 It has been close to 2 months since my first portfolio project was submitted.  Experiencing failure after failure, it took me 3 tries to realize it wasn't my code failing. It was my inablity to properly articulate how my code works and how it wouldn't work if you changed lines or added incorrect method/variable usage. During this whole process I had a mind state that if you just push through the work as quickly as possible you will be done quicker. 
 When did this type of thinking start? 
 Well, I took online classes from my local community college a couple of years ago and I got into the habit of just learning enough to pass the quizzes and get through group sessions. I wasn't practicing or even doing enough to remember what I learned after the quizzes because I knew when finals came up that I could just go back through the lessons that were gonna help me pass the finals and be done with it. And usually I would just submit a paper to my professor and he would email back his/her thoughts.
+
 Look at how far that mind frame got me. Not far. At all. 
 
 

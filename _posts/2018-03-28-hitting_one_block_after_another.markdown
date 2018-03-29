@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      Hitting one block after another
-date:       2018-03-28 15:49:49 +0000
+title:      "Hitting one block after another "
+date:       2018-03-28 11:49:50 -0400
 permalink:  hitting_one_block_after_another
 ---
 
@@ -12,11 +12,6 @@ It has been close to 2 months since my first portfolio project was submitted.  E
 When did this type of thinking start? 
 Well, I took online classes from my local community college a couple of years ago and I got into the habit of just learning enough to pass the quizzes and get through group sessions. I wasn't practicing or even doing enough to remember what I learned after the quizzes because I knew when finals came up that I could just go back through the lessons that were gonna help me pass the finals and be done with it. And usually I would just submit a paper to my professor and he would email back his/her thoughts.
 Look at how far that mind frame got me. Not far. At all. 
-
-
-![](https://cdn.pixabay.com/photo/2016/11/18/12/05/white-male-1834102_640.jpg)
-
-photo credit:pixabay.com
 
 
 I wasn't aware that I was just building this wall taller and taller by not recognizing what I was doing wrong. 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "The calm before the (Sinatra project) storm"
+title:      The calm before the (Sinatra project) storm
 date:       2018-04-16 22:38:59 +0000
 permalink:  the_calm_before_the_sinatra_project_storm
 ---

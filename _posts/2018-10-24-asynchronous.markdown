@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Asynchronous "
+title:      "Asynchronous"
 date:       2018-10-24 21:06:37 +0000
 permalink:  asynchronous
 ---

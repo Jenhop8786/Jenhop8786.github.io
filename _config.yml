@@ -1,13 +1,13 @@
 # Site settings
 author: Jenelynrose Hopkins
-title: The only true wisdom is in knowing you know nothing - Socrates 
-header-img: img/home-bg.png
+title: The only true wisdom is in knowing you know nothing - Socrates
+header-img: img/IMG_8659.JPG
 email: jenelyn.hopkins@gmail.com
 copyright_name: Jenelynrose Hopkins
 description: > # this means to ignore newlines until "baseurl:"
-  Learning is a circle that's never ending 
+  Learning is a circle that's never ending
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: 
+twitter_username:
 github_username:  Jenhop8786
 
 # Build settings

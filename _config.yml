@@ -1,4 +1,5 @@
 # Site settings
+theme: https://github.com/luizdepra/hugo-coder.git themes/hugo-coder
 author: Jenelynrose Hopkins
 title: 'The only true wisdom is in knowing you know nothing' - Socrates 
 header-img: img/home-bg.png
